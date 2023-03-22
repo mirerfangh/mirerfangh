@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a Data Scientist @ ReelData and it's my work GitHub account.
 
 <!--
 **mirerfangh/mirerfangh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
